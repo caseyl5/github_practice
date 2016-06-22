@@ -9,5 +9,8 @@ A repository with which to practice using git.
 
 ### What is your favorite color?
 
-> Blue
+> Purple
 
+### What is your favorite ice cream? 
+
+> Half Baked 
